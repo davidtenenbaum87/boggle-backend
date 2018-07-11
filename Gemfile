@@ -17,6 +17,9 @@ gem 'puma', '~> 3.11'
 gem 'active_model_serializers'
 # gem 'bcrypt', '~> 3.1.7'
 
+# 'active_model_serializers'
+gem 'active_model_serializers'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
